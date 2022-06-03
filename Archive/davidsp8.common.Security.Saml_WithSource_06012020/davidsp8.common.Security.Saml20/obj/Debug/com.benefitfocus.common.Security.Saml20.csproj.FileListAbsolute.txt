@@ -1,0 +1,7 @@
+C:\MyProjects\FFMPaymentRedirect\FFMPaymentRedirect\com.benefitfocus.common.Security.Saml20\obj\Debug\ResolveAssemblyReference.cache
+C:\MyProjects\FFMPaymentRedirect\FFMPaymentRedirect\com.benefitfocus.common.Security.Saml20\bin\Debug\benefitfocus.common.Security.Saml20.dll
+C:\MyProjects\FFMPaymentRedirect\FFMPaymentRedirect\com.benefitfocus.common.Security.Saml20\bin\Debug\benefitfocus.common.Security.Saml20.pdb
+C:\MyProjects\FFMPaymentRedirect\FFMPaymentRedirect\com.benefitfocus.common.Security.Saml20\bin\Debug\benefitfocus.common.Security.Saml.dll
+C:\MyProjects\FFMPaymentRedirect\FFMPaymentRedirect\com.benefitfocus.common.Security.Saml20\bin\Debug\benefitfocus.common.Security.Saml.pdb
+C:\MyProjects\FFMPaymentRedirect\FFMPaymentRedirect\com.benefitfocus.common.Security.Saml20\obj\Debug\benefitfocus.common.Security.Saml20.dll
+C:\MyProjects\FFMPaymentRedirect\FFMPaymentRedirect\com.benefitfocus.common.Security.Saml20\obj\Debug\benefitfocus.common.Security.Saml20.pdb

@@ -1,0 +1,11 @@
+C:\MyStuff\Downloads\CodeProject\saml\Project\Source\davidsp8.windows.PostSamlAssertion\obj\Debug\ResolveAssemblyReference.cache
+C:\MyStuff\Downloads\CodeProject\saml\Project\Source\davidsp8.windows.PostSamlAssertion\obj\Debug\davidsp8.windows.PostSamlAssertion.frmMain.resources
+C:\MyStuff\Downloads\CodeProject\saml\Project\Source\davidsp8.windows.PostSamlAssertion\obj\Debug\davidsp8.windows.PostSamlAssertion.frmSelectCertificate.resources
+C:\MyStuff\Downloads\CodeProject\saml\Project\Source\davidsp8.windows.PostSamlAssertion\obj\Debug\davidsp8.windows.PostSamlAssertion.Properties.Resources.resources
+C:\MyStuff\Downloads\CodeProject\saml\Project\Source\davidsp8.windows.PostSamlAssertion\obj\Debug\davidsp8.windows.PostSamlAssertion.csproj.GenerateResource.Cache
+C:\MyStuff\Downloads\CodeProject\saml\Project\Source\davidsp8.windows.PostSamlAssertion\bin\Debug\davidsp8.windows.PostSamlAssertion.exe
+C:\MyStuff\Downloads\CodeProject\saml\Project\Source\davidsp8.windows.PostSamlAssertion\bin\Debug\davidsp8.windows.PostSamlAssertion.pdb
+C:\MyStuff\Downloads\CodeProject\saml\Project\Source\davidsp8.windows.PostSamlAssertion\bin\Debug\davidsp8.common.Security.Saml11.dll
+C:\MyStuff\Downloads\CodeProject\saml\Project\Source\davidsp8.windows.PostSamlAssertion\bin\Debug\davidsp8.common.Security.Saml11.pdb
+C:\MyStuff\Downloads\CodeProject\saml\Project\Source\davidsp8.windows.PostSamlAssertion\obj\Debug\davidsp8.windows.PostSamlAssertion.exe
+C:\MyStuff\Downloads\CodeProject\saml\Project\Source\davidsp8.windows.PostSamlAssertion\obj\Debug\davidsp8.windows.PostSamlAssertion.pdb

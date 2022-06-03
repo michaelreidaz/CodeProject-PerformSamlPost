@@ -1,0 +1,7 @@
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.common.Security.Saml\bin\Release\davidsp8.common.Security.Saml.dll
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.common.Security.Saml\bin\Release\davidsp8.common.Security.Saml.pdb
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.common.Security.Saml\obj\Release\davidsp8.common.Security.Saml.csproj.CoreCompileInputs.cache
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.common.Security.Saml\obj\Release\davidsp8.common.Security.Saml.dll
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.common.Security.Saml\obj\Release\davidsp8.common.Security.Saml.pdb
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.common.Security.Saml\bin\Release\log4net.dll
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.common.Security.Saml\obj\Release\davidsp8.common.Security.Saml.csproj.CopyComplete

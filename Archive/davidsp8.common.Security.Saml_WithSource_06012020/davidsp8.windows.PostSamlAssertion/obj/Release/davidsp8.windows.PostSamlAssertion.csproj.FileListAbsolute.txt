@@ -1,0 +1,15 @@
+C:\Users\dspeight\projects\SSOSimulator\com\DemoApp\davidsp8.windows.PostSamlAssertion.exe.config
+C:\Users\dspeight\projects\SSOSimulator\com\DemoApp\davidsp8.windows.PostSamlAssertion.exe.manifest
+C:\Users\dspeight\projects\SSOSimulator\com\DemoApp\davidsp8.windows.PostSamlAssertion.application
+C:\Users\dspeight\projects\SSOSimulator\com\DemoApp\davidsp8.windows.PostSamlAssertion.exe
+C:\Users\dspeight\projects\SSOSimulator\com\DemoApp\davidsp8.windows.PostSamlAssertion.pdb
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.windows.PostSamlAssertion\obj\Release\davidsp8.windows.PostSamlAssertion.frmMain.resources
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.windows.PostSamlAssertion\obj\Release\davidsp8.windows.PostSamlAssertion.frmSelectCertificate.resources
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.windows.PostSamlAssertion\obj\Release\davidsp8.windows.PostSamlAssertion.Properties.Resources.resources
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.windows.PostSamlAssertion\obj\Release\davidsp8.windows.PostSamlAssertion.csproj.GenerateResource.cache
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.windows.PostSamlAssertion\obj\Release\davidsp8.windows.PostSamlAssertion.csproj.CoreCompileInputs.cache
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.windows.PostSamlAssertion\obj\Release\davidsp8.windows.PostSamlAssertion.exe.manifest
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.windows.PostSamlAssertion\obj\Release\davidsp8.windows.PostSamlAssertion.application
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.windows.PostSamlAssertion\obj\Release\davidsp8.windows.PostSamlAssertion.csproj.CopyComplete
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.windows.PostSamlAssertion\obj\Release\davidsp8.windows.PostSamlAssertion.exe
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.windows.PostSamlAssertion\obj\Release\davidsp8.windows.PostSamlAssertion.pdb

@@ -1,0 +1,13 @@
+C:\MyProjects\CodeProject\Saml_Source\Source\davidsp8.common.Security.Saml\bin\Debug\davidsp8.common.Security.Saml.dll
+C:\MyProjects\CodeProject\Saml_Source\Source\davidsp8.common.Security.Saml\bin\Debug\davidsp8.common.Security.Saml.pdb
+C:\MyProjects\CodeProject\Saml_Source\Source\davidsp8.common.Security.Saml\obj\Debug\ResolveAssemblyReference.cache
+C:\MyProjects\CodeProject\Saml_Source\Source\davidsp8.common.Security.Saml\obj\Debug\davidsp8.common.Security.Saml.dll
+C:\MyProjects\CodeProject\Saml_Source\Source\davidsp8.common.Security.Saml\obj\Debug\davidsp8.common.Security.Saml.pdb
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.common.Security.Saml\bin\Debug\davidsp8.common.Security.Saml.dll
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.common.Security.Saml\bin\Debug\davidsp8.common.Security.Saml.pdb
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.common.Security.Saml\obj\Debug\davidsp8.common.Security.Saml.csproj.CoreCompileInputs.cache
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.common.Security.Saml\obj\Debug\davidsp8.common.Security.Saml.dll
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.common.Security.Saml\obj\Debug\davidsp8.common.Security.Saml.pdb
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.common.Security.Saml\bin\Debug\log4net.dll
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.common.Security.Saml\obj\Debug\davidsp8.common.Security.Saml.csproj.CopyComplete
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.common.Security.Saml\obj\Debug\davidsp8.common.Security.Saml.csprojAssemblyReference.cache

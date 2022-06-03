@@ -1,0 +1,11 @@
+<publishData>
+  <publishTarget publishUrl="C:\temp\AetnaIncSSOSim\">
+    <file relUrl="bin/davidsp8.common.Security.Saml.All.dll" publishTime="03/05/2010 21:04:14" />
+    <file relUrl="bin/davidsp8.web.PostSamlAssertion.dll" publishTime="10/21/2014 22:57:18" />
+    <file relUrl="Default.aspx" publishTime="10/21/2014 10:23:00" />
+    <file relUrl="Images/Progress.gif" publishTime="02/04/2010 12:02:52" />
+    <file relUrl="SSO.aspx" publishTime="02/04/2010 16:43:38" />
+    <file relUrl="Web.config" publishTime="09/14/2013 14:17:05" />
+    <file relUrl="bin/davidsp8.web.PostSamlAssertion.pdb" publishTime="10/21/2014 22:57:18" />
+  </publishTarget>
+</publishData>

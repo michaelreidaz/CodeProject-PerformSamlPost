@@ -1,0 +1,14 @@
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.web.PostSamlAssertion\bin\davidsp8.web.PostSamlAssertion.dll.config
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.web.PostSamlAssertion\bin\davidsp8.web.PostSamlAssertion.dll
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.web.PostSamlAssertion\bin\davidsp8.web.PostSamlAssertion.pdb
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.web.PostSamlAssertion\bin\davidsp8.common.Security.Saml.All.dll
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.web.PostSamlAssertion\bin\log4net.dll
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.web.PostSamlAssertion\bin\davidsp8.common.Security.Saml.All.pdb
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.web.PostSamlAssertion\obj\Release\davidsp8.web.PostSamlAssertion._Default.resources
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.web.PostSamlAssertion\obj\Release\davidsp8.web.PostSamlAssertion.SSO.resources
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.web.PostSamlAssertion\obj\Release\davidsp8.web.PostSamlAssertion.csproj.GenerateResource.cache
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.web.PostSamlAssertion\obj\Release\davidsp8.web.PostSamlAssertion.csproj.CoreCompileInputs.cache
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.web.PostSamlAssertion\obj\Release\davidsp8.web.PostSamlAssertion.csproj.CopyComplete
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.web.PostSamlAssertion\obj\Release\davidsp8.web.PostSamlAssertion.dll
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.web.PostSamlAssertion\obj\Release\davidsp8.web.PostSamlAssertion.pdb
+C:\Users\dspeight\projects\SSOSimulator\com\davidsp8\davidsp8.web.PostSamlAssertion\bin\log4net.xml

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <soap:Body>
+        <ARRefundAdjustmentRequest xmlns="http://www.bluecrossma.com/services/arm/ARMSTransaction">
+            <ARManagementUserID xmlns="">User</ARManagementUserID>
+            <BenefitfocusTransactionOID xmlns="">222</BenefitfocusTransactionOID>
+            <InvoiceRecipientType xmlns="">B</InvoiceRecipientType>
+            <InvoiceRecipientID xmlns="">123</InvoiceRecipientID>
+            <GroupID xmlns="">GROUPB</GroupID>
+            <Amount xmlns="">122</Amount>
+            <Reason xmlns="">A11</Reason>
+            <AdjustmentType xmlns="">MA</AdjustmentType>
+        </ARRefundAdjustmentRequest>
+    </soap:Body>
+</soap:Envelope>

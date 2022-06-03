@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+<ConfigurationData xmlns="http://tempuri.org/ConfigurationData.xsd">
+  <Configuration>
+    <Recipient>http://www.davidsp8.com/SSO.asmx</Recipient>
+    <Target>http://www.davidsp8.com</Target>
+    <Subject>test</Subject>
+    <CertFileLocation />
+    <CertPassword />
+    <CertStoreName>Root</CertStoreName>
+    <CertStoreLocation>LocalMachine</CertStoreLocation>
+    <CertFindKey>41fe9204effd0d8c5e65a1de3a507da1383fd14f</CertFindKey>
+    <CertFriendlyName>Test.david.com</CertFriendlyName>
+    <CertFindMethod>FindByThumbprint </CertFindMethod>
+    <Issuer>davidsp8.com:idp</Issuer>
+    <Domain>davidsp8.com</Domain>
+    <Version>2.0</Version>
+  </Configuration>
+  <Attributes>
+    <Name>email</Name>
+    <Value>a@bcdef.com</Value>
+  </Attributes>
+</ConfigurationData>
